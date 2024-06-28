@@ -11,7 +11,7 @@ apt update
 
 pkg install git
 
-git clone
+git clone https://github.com/AloneStandLarkaAnas/IP-Info
 
 ########################
 
